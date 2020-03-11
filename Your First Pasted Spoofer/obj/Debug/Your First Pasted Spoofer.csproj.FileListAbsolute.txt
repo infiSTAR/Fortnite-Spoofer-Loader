@@ -1,0 +1,6 @@
+C:\Users\acidi\source\repos\Your First Pasted Spoofer\Your First Pasted Spoofer\bin\Debug\Your First Pasted Spoofer.exe.config
+C:\Users\acidi\source\repos\Your First Pasted Spoofer\Your First Pasted Spoofer\bin\Debug\Your First Pasted Spoofer.exe
+C:\Users\acidi\source\repos\Your First Pasted Spoofer\Your First Pasted Spoofer\bin\Debug\Your First Pasted Spoofer.pdb
+C:\Users\acidi\source\repos\Your First Pasted Spoofer\Your First Pasted Spoofer\obj\Debug\Your First Pasted Spoofer.csprojAssemblyReference.cache
+C:\Users\acidi\source\repos\Your First Pasted Spoofer\Your First Pasted Spoofer\obj\Debug\Your First Pasted Spoofer.exe
+C:\Users\acidi\source\repos\Your First Pasted Spoofer\Your First Pasted Spoofer\obj\Debug\Your First Pasted Spoofer.pdb
